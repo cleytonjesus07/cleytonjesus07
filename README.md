@@ -37,4 +37,4 @@ As a former illustrator, I bring:
 ## 📫 Let's Connect
 I'm actively looking for opportunities to grow as a developer and contribute to meaningful projects.
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/cleytonjesus07/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:cleytonjesus007@gmail.com) *(recommend adding professional email)*
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:cleytonjesus007@gmail.com) 
