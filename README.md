@@ -1,4 +1,4 @@
-# Cleyton Jesus
+#Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"/>, I'm Cleyton Jesus
 
 **Illustrator learning to code**  
 Currently focused on: React, JavaScript, HTML/CSS
