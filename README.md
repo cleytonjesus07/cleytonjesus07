@@ -1,4 +1,4 @@
-<h3 align="center">🚀 Desenvolvedor Frontend em formação • Criativo do Brasil</h3>
+<h3 align="center">🚀 Desenvolvedor Fullstack JR em formação</h3>
 
 <p align="center">Transição de carreira com foco em interfaces modernas, acessíveis e bem projetadas.</p>
 
