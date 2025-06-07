@@ -1,75 +1,98 @@
-# Olá! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30px"/> Eu sou Cleyton Jesus
+<h3 align="center">🚀 Desenvolvedor Frontend em formação • Criativo do Brasil</h3>
 
-**Desenvolvedor Frontend em formação com background criativo em design**
+<p align="center">Transição de carreira com foco em interfaces modernas, acessíveis e bem projetadas.</p>
 
-Transição de carreira para tecnologia com foco em desenvolvimento web e interfaces modernas
-
----
-
-## 🎯 Objetivo
-
-Atuar como desenvolvedor frontend, contribuindo com soluções eficientes e visualmente agradáveis, unindo criatividade com tecnologia.
-
----
-
-## 🛠 Habilidades em Desenvolvimento
-
-<div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</div>
-
----
-
-## 🎨 Diferencial Criativo
-
-Experiência como ilustrador me proporcionou:
-
-- Olhar apurado para **design visual e composição**
-- Sensibilidade para **experiência do usuário (UX)**
-- Facilidade em criar **interfaces atrativas e intuitivas**
-- Criatividade na **resolução de problemas visuais e funcionais**
-
----
-
-## 📚 Atualmente Estudando
-
-- Fundamentos avançados de JavaScript moderno
-- Componentização e hooks com React
-- Boas práticas de UI/UX no desenvolvimento
-- Acessibilidade e responsividade na web
-
----
-
-## 📊 Meu Progresso no GitHub
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleytonjesus07&show_icons=true&locale=pt-br&count_private=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonjesus07&layout=compact&locale=pt-br&theme=default&hide_border=true" width="45%"/>
+  
+👨‍💻 Aprendendo a construir aplicações web do zero  
+📚 Estudando **React**, **JavaScript moderno**, e **práticas de UI/UX**
+
 </div>
 
----
+<br/>
 
-## 🌟 O Que Me Destaca
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/cleytonjesus07/" target="_blank">
+    <img src="https://img.shields.io/badge/👔%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cleytonjesus007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/✉️%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-- Ponte natural entre **design visual** e **desenvolvimento web**
-- Alta capacidade de aprendizado e adaptação
-- Projetos com foco em **funcionalidade + estética**
-- Mentalidade voltada à **melhoria contínua**
-
----
-
-## 💼 Em Busca de Oportunidade
-
-Busco minha **primeira experiência profissional** como desenvolvedor. Estou aberto a **vagas júnior ou projetos freelance** em tecnologia.
+<br/>
 
 ---
 
-## 📫 Vamos Conversar?
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/cleytonjesus07/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:cleytonjesus007@gmail.com)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,figma,vscode,git" />
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📌 Diferenciais Criativos</h2>
+
+<div align="center">
+
+✨ Olhar apurado para **design visual e composição**  
+🧠 Sensibilidade para **experiência do usuário (UX)**  
+🎯 Foco em **funcionalidade + estética**  
+🚀 Facilidade em **resolver problemas visuais e funcionais**
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📂 Projetos em Destaque</h2>
+
+<ul align="center" style="list-style-type: none;">
+  <li>🎵 <a href="https://github.com/cleytonjesus07/playlistify" target="_blank">Playlistify</a> – Aplicação web para organizar e curtir suas músicas favoritas</li>
+  <li>🎬 <a href="https://github.com/cleytonjesus07/PlayerDeVideoCustomizado" target="_blank">Player de Vídeo Customizado</a> – Player de vídeo com interface totalmente personalizada</li>
+  <li>🎮 <a href="https://github.com/cleytonjesus07/ps5-landing-page" target="_blank">Playstation 5 Landing Page</a> – Página promocional do console PS5 com visual imersivo</li>
+</ul>
+
+<br/>
+
+---
+
+<h2 align="center">📜 Certificações</h2>
+
+<div align="center">
+
+📘 Bootcamp +praTI - Desenvolvedor Fullstack (em andamento)  
+🧠 CURSO DE EXTENSÃO DESIGN PARA QUEM NÃO É DESIGNER - PUCRS 
+🎓 Cursos livres de JavaScript e React – YouTube e plataformas online
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com?user=cleytonjesus07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=cleytonjesus07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonjesus07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">🎯 Em busca da primeira oportunidade</h2>
+
+<p align="center">Aberto a vagas <strong>júnior</strong> ou <strong>freelance</strong> para aplicar minhas habilidades em desenvolvimento frontend e crescer junto com o time.</p>
+
+---
 
