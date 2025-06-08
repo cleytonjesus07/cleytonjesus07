@@ -36,21 +36,6 @@
 
 ---
 
-<h2 align="center">📌 Diferenciais Criativos</h2>
-
-<div align="center">
-
-✨ Olhar apurado para **design visual e composição**  
-🧠 Sensibilidade para **experiência do usuário (UX)**  
-🎯 Foco em **funcionalidade + estética**  
-🚀 Facilidade em **resolver problemas visuais e funcionais**
-
-</div>
-
-<br/>
-
----
-
 <h2 align="center">📂 Projetos em Destaque</h2>
 
 <ul align="center" style="list-style-type: none;">
