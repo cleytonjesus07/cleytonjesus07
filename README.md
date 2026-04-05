@@ -1,13 +1,16 @@
-<h3 align="center">🚀 Desenvolvedor Fullstack JR em formação</h3>
+<h3 align="center">🚀 Desenvolvedor Fullstack Jr.</h3>
 
-<p align="center">Transição de carreira com foco em interfaces modernas, acessíveis e bem projetadas.</p>
+<p align="center">
+Construindo aplicações web modernas com foco em <strong>performance, experiência do usuário e código escalável</strong>.
+</p>
 
 <br/>
 
 <div align="center">
   
-👨‍💻 Aprendendo a construir aplicações web do zero  
-📚 Estudando **React**, **JavaScript moderno**, e **práticas de UI/UX**
+💻 Desenvolvimento fullstack com foco em frontend moderno  
+⚡ Interfaces performáticas e otimizadas (60fps)  
+🎯 Em busca da primeira oportunidade como desenvolvedor  
 
 </div>
 
@@ -15,10 +18,10 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/cleytonjesus07/" target="_blank">
-    <img src="https://img.shields.io/badge/👔%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cleytonjesus007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -26,58 +29,92 @@
 
 ---
 
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+## 🧠 Diferenciais
+
+<div align="center">
+
+⚡ Foco em performance e renderização fluida  
+🔌 Experiência com dados em tempo real (WebSocket)  
+🎨 Forte atenção a UI/UX e design moderno  
+🧩 Código organizado, escalável e reutilizável  
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,figma,vscode,git" />
 </div>
 
-<br/>
-
 ---
 
-<h2 align="center">📂 Projetos em Destaque</h2>
-
-<ul align="center" style="list-style-type: none;">
-  <li>🎵 <a href="https://github.com/cleytonjesus07/playlistify" target="_blank">Playlistify</a> – Aplicação web para organizar e curtir suas músicas favoritas</li>
-  <li>🎬 <a href="https://github.com/cleytonjesus07/PlayerDeVideoCustomizado" target="_blank">Player de Vídeo Customizado</a> – Player de vídeo com interface totalmente personalizada</li>
-  <li>🎮 <a href="https://github.com/cleytonjesus07/ps5-landing-page" target="_blank">Playstation 5 Landing Page</a> – Página promocional do console PS5 com visual imersivo</li>
-</ul>
-
-<br/>
-
----
-
-<h2 align="center">📜 Certificações</h2>
+## 🔥 Projeto Principal
 
 <div align="center">
 
-📘 Bootcamp +praTI - Desenvolvedor Fullstack (em andamento)  
-🧠 CURSO DE EXTENSÃO DESIGN PARA QUEM NÃO É DESIGNER - PUCRS 
-🎓 Cursos livres de JavaScript e React – YouTube e plataformas online
+💰 **FinBoost**  
+Sistema de gerenciamento financeiro com foco em organização, compartilhamento e experiência do usuário.
+
+React • Vite • Zustand • API • Arquitetura escalável
 
 </div>
 
+---
+
+## 📂 Outros Projetos
+
+<div align="center">
+
+🎵 [**Playlistify**](https://github.com/cleytonjesus07/playlistify)  
+React • Gerenciamento de estado • UI interativa  
+
 <br/>
+
+🎬 [**Player de Vídeo Customizado**](https://github.com/cleytonjesus07/PlayerDeVideoCustomizado)  
+JavaScript • Controle de mídia • Interface personalizada  
+
+<br/>
+
+🎮 [**PS5 Landing Page**](https://github.com/cleytonjesus07/ps5-landing-page)  
+HTML • CSS • Design responsivo  
+
+</div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📜 Formação
 
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com?user=cleytonjesus07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=cleytonjesus07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+📘 Bootcamp +praTI – Desenvolvedor Fullstack (em andamento)  
+🧠 Design para quem não é designer – PUCRS  
+🎓 Estudos contínuos em React e JavaScript  
+
+</div>
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com?user=cleytonjesus07&count_private=true&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=cleytonjesus07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonjesus07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonjesus07&layout=compact&theme=react&border_radius=10" />
 </div>
 
-<br/>
-
 ---
 
-<h2 align="center">🎯 Em busca da primeira oportunidade</h2>
+## 🎯 Objetivo
 
-<p align="center">Aberto a vagas <strong>júnior</strong> ou <strong>freelance</strong> para aplicar minhas habilidades em desenvolvimento frontend e crescer junto com o time.</p>
+<p align="center">
+Busco uma oportunidade como <strong>Desenvolvedor Frontend ou Fullstack Jr.</strong>, contribuindo com soluções eficientes, escaláveis e centradas no usuário.
+</p>
+
+<p align="center">
+Interesse em ambientes colaborativos, desafios reais de produto e evolução constante na área de tecnologia.
+</p>
 
 ---
-
