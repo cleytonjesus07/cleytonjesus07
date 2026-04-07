@@ -1,31 +1,27 @@
-<h3 align="center">🚀 Desenvolvedor Fullstack Jr.</h3>
+<h1 align="center">🚀 Desenvolvedor Fullstack Jr.</h1>
 
 <p align="center">
-Construindo aplicações web modernas com foco em <strong>performance, experiência do usuário e código escalável</strong>.
+  <i>Aplicações web performáticas • Interfaces modernas • Código escalável</i>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Frontend-Focused-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-60FPS-success?style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
 
 <div align="center">
-  
-💻 Desenvolvimento fullstack com foco em frontend moderno  
-⚡ Interfaces performáticas e otimizadas (60fps)  
-🎯 Em busca da primeira oportunidade como desenvolvedor  
+
+💻 Desenvolvimento com foco em **frontend moderno com React**  
+⚡ Interfaces rápidas, fluidas e otimizadas  
+🔌 Experiência com **dados em tempo real (WebSocket)**  
+🎯 Buscando a primeira oportunidade como desenvolvedor  
 
 </div>
-
-<br/>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/cleytonjesus07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cleytonjesus007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br/>
 
 ---
 
@@ -33,10 +29,10 @@ Construindo aplicações web modernas com foco em <strong>performance, experiên
 
 <div align="center">
 
-⚡ Foco em performance e renderização fluida  
-🔌 Experiência com dados em tempo real (WebSocket)  
-🎨 Forte atenção a UI/UX e design moderno  
-🧩 Código organizado, escalável e reutilizável  
+⚡ Performance e renderização fluida  
+🧩 Código limpo, escalável e reutilizável  
+🎨 Forte atenção a UI/UX  
+🚀 Experiência com aplicações completas (frontend + API)  
 
 </div>
 
@@ -44,66 +40,77 @@ Construindo aplicações web modernas com foco em <strong>performance, experiên
 
 ## 🛠️ Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,figma,git" />
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,figma,vscode,git" />
+
+### 💰 FinBoost
+Aplicação de gerenciamento financeiro com foco em arquitetura e organização de dados.  
+<i>Projeto iniciado em bootcamp e evoluído de forma independente.</i>
+
+`React` • `Vite` • `Zustand` • `API`
+
+---
+
+### 🎵 Playlistify
+<a href="https://github.com/cleytonjesus07/playlistify">Ver projeto</a>  
+Interface interativa com gerenciamento de estado.
+
+`React` • `State Management`
+
+---
+
+### 🎬 Player de Vídeo Customizado
+<a href="https://github.com/cleytonjesus07/PlayerDeVideoCustomizado">Ver projeto</a>  
+Controle completo de mídia com interface própria.
+
+`JavaScript` • `Media API`
+
+---
+
+### 🎮 PS5 Landing Page
+<a href="https://github.com/cleytonjesus07/ps5-landing-page">Ver projeto</a>  
+Landing page responsiva com foco em design.
+
+`HTML` • `CSS`
+
 </div>
 
 ---
 
-## 📂 Projetos
+## 📊 GitHub Stats
 
-<div align="center">
-
-💰 **FinBoost**  
-Projeto desenvolvido durante bootcamp, atualmente em evolução, com foco em gerenciamento financeiro e arquitetura de aplicações.
-
-React • Vite • Zustand • API  
-
-<br/>
-
-🎵 [**Playlistify**](https://github.com/cleytonjesus07/playlistify)  
-React • Gerenciamento de estado • UI interativa  
-
-<br/>
-
-🎬 [**Player de Vídeo Customizado**](https://github.com/cleytonjesus07/PlayerDeVideoCustomizado)  
-JavaScript • Controle de mídia • Interface personalizada  
-
-<br/>
-
-🎮 [**PS5 Landing Page**](https://github.com/cleytonjesus07/ps5-landing-page)  
-HTML • CSS • Design responsivo  
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=cleytonjesus07&theme=react&border_radius=10" />
+</p>
 
 ---
 
-## 📜 Formação
+## 📫 Contato
 
-<div align="center">
-
-📘 Bootcamp +praTI – Desenvolvedor Fullstack (em andamento)  
-🧠 Design para quem não é designer – PUCRS  
-🎓 Estudos contínuos em React e JavaScript  
-
-</div>
-
----
-
-## 📈 GitHub
-
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com?user=cleytonjesus07&count_private=true&theme=react&border_radius=10" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cleytonjesus07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:cleytonjesus007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🎯 Objetivo
 
 <p align="center">
-Busco uma oportunidade como <strong>Desenvolvedor Frontend ou Fullstack Jr.</strong>, contribuindo com soluções eficientes, escaláveis e centradas no usuário.
+Atuar como <strong>Desenvolvedor Frontend ou Fullstack Jr.</strong>, contribuindo com soluções eficientes, escaláveis e centradas no usuário.
 </p>
 
 <p align="center">
-Interesse em ambientes colaborativos, desafios reais de produto e evolução constante na área de tecnologia.
+Interesse em ambientes colaborativos, produtos reais e evolução constante.
 </p>
