@@ -50,22 +50,16 @@ Construindo aplicações web modernas com foco em <strong>performance, experiên
 
 ---
 
-## 🔥 Projeto Principal
+## 📂 Projetos
 
 <div align="center">
 
 💰 **FinBoost**  
-Sistema de gerenciamento financeiro com foco em organização, compartilhamento e experiência do usuário.
+Projeto desenvolvido durante bootcamp, atualmente em evolução, com foco em gerenciamento financeiro e arquitetura de aplicações.
 
-React • Vite • Zustand • API • Arquitetura escalável
+React • Vite • Zustand • API  
 
-</div>
-
----
-
-## 📂 Outros Projetos
-
-<div align="center">
+<br/>
 
 🎵 [**Playlistify**](https://github.com/cleytonjesus07/playlistify)  
 React • Gerenciamento de estado • UI interativa  
@@ -100,9 +94,6 @@ HTML • CSS • Design responsivo
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=cleytonjesus07&count_private=true&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=cleytonjesus07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonjesus07&layout=compact&theme=react&border_radius=10" />
 </div>
 
 ---
@@ -116,5 +107,3 @@ Busco uma oportunidade como <strong>Desenvolvedor Frontend ou Fullstack Jr.</str
 <p align="center">
 Interesse em ambientes colaborativos, desafios reais de produto e evolução constante na área de tecnologia.
 </p>
-
----
